@@ -1,2 +1,2 @@
 # Comet
-Logger
+Lidar imitator
